@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @bytemoves
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Data
-- 💞️ I’m looking to collaborate on building projects and fn
+- 👀 I’m interested in Data and Web development
+- 🌱 I’m currently learning Data science
+- 💞️ I’m looking to collaborate on building projects and fun.
+- 
   
 
 <!---
